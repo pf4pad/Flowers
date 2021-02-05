@@ -135,6 +135,10 @@ root {
   padding-right: 60px;
 }
 
+.review-sliser {
+  margin-bottom: 98px;
+}
+
 .review-image {
   width: 220px;
   height: 220px;
@@ -183,7 +187,6 @@ root {
   text-transform: uppercase;
   text-align: center;
   letter-spacing: 0.3;
-  margin-bottom: 98px;
 }
 
 .advantages {
@@ -206,4 +209,14 @@ root {
   text-transform: uppercase;
   max-width: 270px;
   margin: auto;
+}
+
+.goods {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.section-description {
+  font-size: 18px;
+  text-align: center;
 }
